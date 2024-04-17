@@ -1,7 +1,7 @@
 import time
 import os
 
-# Alteração realizada!!!
+# Outra Alteração realizada!!!
 
 ################ CORES #################
 class colors:
